@@ -7,17 +7,19 @@ This repository contains all code, data, and scripts used in my Master's thesis 
 ---
 
 ## 📁 Repository Structure
-  Data_from_LUKS:
-  Delay_Cap_120_Scripts:
-  Hyperparameter_tuning_Script:
-  Input_File_Generation:
-  Input_data:
-  ModelA_Scripts:
-  ModelB_Scripts:
-  ModelC_Scripts:
-  Neural_Network_Scripts:
-  plot_generation.py:
-  README.md:
+
+- Data_from_LUKS/
+- Delay_Cap_120_Scripts/
+- Hyperparameter_tuning_Script/
+- Input_File_Generation/
+- Input_data/
+- ModelA_Scripts/
+- ModelB_Scripts/
+- ModelC_Scripts/
+- Neural_Network_Scripts/
+- plot_generation.py
+- README.md
+
 
 
 
